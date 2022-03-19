@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-#streamlit run C:\Users\b51gh\Desktop\Reeba.py
 st.set_page_config( page_title = "CalcGPA", page_icon = None)
 
 
