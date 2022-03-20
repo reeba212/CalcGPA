@@ -50,18 +50,18 @@ def calc(sem):
         credits = 28
 
     elif sem == 4:
-        subjects = { 'App. Maths-IV' : 4, 'Computer Organisation & Architecture' : 4, 'Theory of Computation' : 4, 'Database Management' : 4, 'Object Oriented Programming' : 3, 'Control Systems' : 4 }
-        labs = { 'App. Maths Lab' : 1, 'COA Lab' : 1, 'DBMS Lab' : 1, 'OOPS Lab' : 1, 'Control Systems Lab' : 1 }
+        subjects = { 'App. Maths-IV' : 4, 'Computer Organisation & Architecture' : 4, 'Theory of Computation' : 4, 'Database Management' : 4, 'Object Oriented Programming' : 3, 'Communication Systems' : 4 }
+        labs = { 'App. Maths Lab' : 1, 'COA Lab' : 1, 'DBMS Lab' : 1, 'OOPS Lab' : 1, 'Communication Systems Lab' : 1 }
         credits = 28
 
     elif sem == 5:
-        subjects = { 'Algo. Design & Analysis' : 4, 'Software Engineering' : 4, 'Java Programming' : 4, 'Industrial Management' : 3, 'Communication Systems' : 4, 'Communication Skills' : 1 }
-        labs = { 'Algo. Design Lab' : 1, 'Software Engineering Lab' : 1, 'Java Programming Lab' : 1, 'In-house Workshop' : 1, 'Communication Systems Lab' : 1, 'Communication Skills Lab' : 1 }
+        subjects = { 'Algo. Design & Analysis' : 4, 'Software Engineering' : 4, 'Java Programming' : 4, 'Industrial Management' : 3, 'Digital Communication' : 4, 'Communication Skills for Professionals' : 1 }
+        labs = { 'Algo. Design Lab' : 1, 'Software Engineering Lab' : 1, 'Java Programming Lab' : 1, 'In-house Workshop' : 1, 'Digital Communication Lab' : 1, 'Communication Skills for Professionals Lab' : 1 }
         credits = 26
 
     elif sem == 6:
-        subjects = { 'Compiler Design' : 4, 'Operating Systems' : 4, 'Data Communication & Networks' : 4, 'Web Engineering' : 3, 'Artificial Intelligence' : 4, 'Microprocessors & Microcontrollers' : 4, }
-        labs = { 'Operating Systems Lab' : 1, 'Networks Lab' : 1, 'Web Engineering Lab' : 1, 'Microprocessor & Microcontroller Lab' : 1 }
+        subjects = { 'Compiler Design' : 4, 'Operating Systems' : 4, 'Computer Networks' : 4, 'Web Technology' : 3, 'Artificial Intelligence' : 4, 'Microprocessors & Microcontrollers' : 4, }
+        labs = { 'Operating Systems Lab' : 1, 'Computer Networks Lab' : 1, 'Web Technology Lab' : 1, 'Microprocessor & Microcontroller Lab' : 1 }
         credits = 27
 
     elif sem == 7:
